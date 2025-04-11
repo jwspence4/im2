@@ -2,3 +2,6 @@
 im2_book2_selected_answers.aux
 im2_book2_selected_answers.log
 im2_book2_selected_answers.synctex.gz
+*.aux
+*.log
+*.gz
